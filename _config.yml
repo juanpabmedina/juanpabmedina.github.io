@@ -1,2 +1,5 @@
-name: My Site
-theme: slate
+title: Juan P. Bolaños Medina 
+description: Estudiante de ingeniería electrónica de la Universidad de Nariño.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
