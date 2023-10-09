@@ -1,0 +1,26 @@
+---
+---
+
+
+@import "jekyll-theme-slate";
+
+
+.inner {
+    position: relative;
+    max-width: 1540px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+img {
+    position: relative;
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+    border: 10px solid #000000;
+    box-shadow: 0 0 5px #ffffff;
+    -webkit-box-shadow: 0 0 1px #000000;
+    -moz-box-shadow: 0 0 5px #000000;
+    -o-box-shadow: 0 0 5px #000000;
+    -ms-box-shadow: 0 0 5px #000000;
+  }
