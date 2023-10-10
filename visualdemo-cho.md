@@ -1,9 +1,9 @@
 ---
 layout: vdemo
 ---
-## User demonstrations.
+## User demonstrations
 
-Below are the five demonstrations per mission that were provided to VisualDemo-Cho to design the control software.
+Below are the five demonstrations per mission that were provided to VisualDemo-Cho to design the control software
 
 ### HOMING
 
@@ -28,6 +28,11 @@ Below are the five demonstrations per mission that were provided to VisualDemo-C
 ![demo_cfa_3](https://raw.githubusercontent.com/juanpabmedina/juanpabmedina.github.io/main/assets/images/visualdemo-cho/demos/cfa/demo_cfa_2.png)
 ![demo_cfa_4](https://raw.githubusercontent.com/juanpabmedina/juanpabmedina.github.io/main/assets/images/visualdemo-cho/demos/cfa/demo_cfa_3.png)
 ![demo_cfa_5](https://raw.githubusercontent.com/juanpabmedina/juanpabmedina.github.io/main/assets/images/visualdemo-cho/demos/cfa/demo_cfa_4.png)
+
+
+## Swarm behaviours
+
+Below are the final positions of the robot swarm obtained by the best FSM find in the design process
 
 
 [back](./)
